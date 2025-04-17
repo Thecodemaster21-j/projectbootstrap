@@ -1,1 +1,2 @@
 # projectbootstrap
+Ill keep this short and sweet but this was possible one of the most fun projects i had done for now super fun and engaging. after the html and css website i thought it was only gonna get harder but with bootstrap wow the proccess has been faster. I have implemented a fully resposive nav with bootstrap that collapseses and goes into a hamburger menu in seconds. I've also added a contact form and user data that are also responsive.
